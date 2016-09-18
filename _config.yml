@@ -91,7 +91,8 @@ timeline:
     title: 'Work'
     date: 'Apr 2006 – Mar 2009'
     desc: >
-            Web and desktop development.
+            Building first touch capable terminal kiosks.
+            <br />Web and desktop development.
             <br />C#, WPF, PHP, MySQL, AS3, JS
   - name: "Master's Degree, Mathematics"
     icon: 'fa-book'
