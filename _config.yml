@@ -4,7 +4,7 @@ description: "Lucas Schejtman's personal website."
 keywords: "Lucas,Schejtman,personal,portfolio"
 baseurl: "/"
 url: "http://lucasschejtman.github.io"
-favicon: "static/img/favicon.ico"
+favicon: "static/img/favicon.ico?v=2"
 
 # author
 author:
