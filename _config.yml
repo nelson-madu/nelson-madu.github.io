@@ -1,0 +1,128 @@
+# Website settings
+title: "Lucas Schejtman"
+description: "Lucas Schejtman's personal website."
+keywords: "Lucas,Schejtman,personal,portfolio"
+baseurl: "/"
+url: "http://lucasschejtman.github.io"
+favicon: "static/img/favicon.ico"
+
+# author
+author:
+  name: 'Lucas'
+  first_name: 'Lucas'
+  last_name: 'Schejtman'
+  email: 'lucas.schejtman@gmail.com'
+  github: 'https://github.com/lucasschejtman'
+  linkedin: 'https://www.linkedin.com/in/lucas-schejtman-29300b32'
+  head_img: 'static/img/landing/lucas.jpg'
+  tag: 'Mathematics, Software, Sports and Video Games'
+  desc: >
+            Applied math enthusiast, specially cryptography, with over 10 years experience in the software industry.
+            <br />As a full stack developer, I'm always up for a challenge at any front.
+            <br />I enjoy keeping myself up to date and playing with the latest and greatest.
+
+# landing page
+landing:
+  home: 'Home'
+  about: 'About'
+  career: 'Career'
+  projects: 'Projects'
+
+# career
+timeline:
+  - name: "Solutions Architect @ Orion Health (NZ)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Aug 2016 - Present'
+    desc: >
+            Redefining the architecture plan for the next 5 years.
+            <br />Web development and DevOps.
+            <br />AWS, JS, NodeJS, React
+  - name: "Solutions Architect @ Bauer Media (NZ)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Jul 2015 - Aug 2016'
+    desc: >
+            Driving digital transformation.
+            <br />Web development and DevOps.
+            <br />C#, AWS, JS, ElasticSearch, NodeJS, React, Postgres
+  - name: "Technical Lead @ Findly (NZ)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Jun 2014 - Jul 2015'
+    desc: >
+            Helping Fortune 500 companies find their next employees.
+            <br />Web development and DevOps.
+            <br />C#, AWS, Mongo, JS, ElasticSearch, NodeJS, Angular, Backbone, Postgres
+  - name: "Senior Software Developer @ MYOB (NZ)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Sep 2013 - Jun 2014'
+    desc: >
+            Working on next generation of accounting software for small businesses.
+            <br />Web and desktop development.
+            <br />C#, WPF, MSSQL, AWS, JS
+  - name: "Senior Software Developer @ MYOB BankLink (NZ)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Nov 2012 - Sep 2013'
+    desc: >
+            Working on next generation of accounting software for small businesses.
+            <br />Web and desktop development.
+            <br />C#, WPF, MSSQL, JS
+  - name: "Lead Developer @ MSI Grant (NZ)"
+    icon: 'fa-search'
+    title: 'Research'
+    date: 'Apr 2011 - Dec 2011'
+    desc: >
+            Successful 'Foundation for Research, Science & Technology' grant for developing new multi touch hardware and concurrent collaborative software.
+            <br />C#, WPF, Silverlight, OpenCV
+  - name: "Senior Software Developer @ 2Touch (NZ)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Mar 2009 - Nov 2012'
+    desc: >
+            Pioneering large multi touch surfaces, developing both hardware and software.
+            <br />Web and desktop development.
+            <br />C#, WPF, PHP, MySQL, RoR, JS
+  - name: "Software Developer @ Tec-Lab (Argentina)"
+    icon: 'fa-code'
+    title: 'Work'
+    date: 'Apr 2006 – Mar 2009'
+    desc: >
+            Web and desktop development.
+            <br />C#, WPF, PHP, MySQL, AS3, JS
+  - name: "Master's Degree, Mathematics"
+    icon: 'fa-book'
+    title: 'Education'
+    date: 'Jul. 2008'
+    desc: >
+            Graduated from the University of Buenos Aires with a focus on applied math and cryptography.
+
+# my projects
+projects:
+  - name: 'IMDB GraphQL'
+    url: 'https://github.com/lucasschejtman/imdb-graphql-flow'
+    img: 'static/img/landing/graphql.png'
+    desc: >
+            A GraphQL wrapper for some of the unofficial IMDB APIs.
+            <br />Written in ES6 with Ramda and FlowType
+  - name: 'Functional React'
+    url: 'https://github.com/lucasschejtman/react-redux-functional'
+    img: 'static/img/landing/react.png'
+    desc: >
+            A functional and modular approach to the well known todo app.
+            <br />Written in ES6 with React, Redux and Ramda
+  - name: 'Online Problems'
+    url: 'https://github.com/lucasschejtman/online-problems'
+    img: 'static/img/landing/haskell.png'
+    desc: >
+            My solutions to problems from sites such as; Project Euler, HackerRank and more.
+            <br />Written in Haskell
+
+# google analytics
+ga:
+  id: UA-84338948-1
+
+# Build settings
+encoding: "utf-8"
