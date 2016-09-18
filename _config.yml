@@ -28,27 +28,6 @@ landing:
   career: 'Career'
   projects: 'Projects'
 
-# my projects
-projects:
-  - name: 'IMDB GraphQL'
-    url: 'https://github.com/lucasschejtman/imdb-graphql-flow'
-    img: 'static/img/landing/graphql.png'
-    desc: >
-            A GraphQL wrapper for some of the unofficial IMDB APIs.
-            <br />Written in ES6 with Ramda and FlowType
-  - name: 'Functional React'
-    url: 'https://github.com/lucasschejtman/react-redux-functional'
-    img: 'static/img/landing/react.png'
-    desc: >
-            A functional and modular approach to the well known todo app.
-            <br />Written in ES6 with React, Redux and Ramda
-  - name: 'Online Problems'
-    url: 'https://github.com/lucasschejtman/online-problems'
-    img: 'static/img/landing/haskell.png'
-    desc: >
-            My solutions to problems from sites such as; Project Euler, HackerRank and more.
-            <br />Written in Haskell
-
 # google analytics
 ga:
   id: UA-84338948-1

@@ -97,7 +97,7 @@ permalink: /
             </div>
         </div>
         <div class="row">
-          {% for project in site.projects %}
+          {% for project in site.data.projects %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
                 <div class="team-member">
