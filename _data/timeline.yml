@@ -1,20 +1,26 @@
-- name: "Solutions Architect @ Orion Health"
+- name: "Solutions Architect"
+  place: "Orion Health"
+  website: "http://www.orionhealth.com"
   icon: 'fa-code'
   title: 'Work'
   date: 'Aug 2016 - Present'
   desc: >
           Redefining the architecture plan for the next 5 years.
           <br />Web development and DevOps.
-          <br />AWS, JS, NodeJS, React
-- name: "Solutions Architect @ Bauer Media (NZ)"
+          <br />AWS, JS, NodeJS, React, Docker
+- name: 'Solutions Architect'
+  place: 'Bauer Media'
+  website: 'http://www.bauermedia.com'
   icon: 'fa-code'
   title: 'Work'
   date: 'Jul 2015 - Aug 2016'
   desc: >
           Driving digital transformation.
           <br />Web development and DevOps.
-          <br />C#, AWS, JS, ElasticSearch, NodeJS, React, Postgres
-- name: "Technical Lead @ Findly"
+          <br />C#, AWS, JS, ElasticSearch, NodeJS, React, PGSQL, Docker
+- name: "Technical Lead"
+  place: "Findly"
+  website: "http://wwww.findly.com"
   icon: 'fa-code'
   title: 'Work'
   date: 'Jun 2014 - Jul 2015'
@@ -22,7 +28,9 @@
           Helping Fortune 500 companies find their next employees.
           <br />Web development and DevOps.
           <br />C#, AWS, Mongo, JS, ES, NodeJS, Angular, Backbone, PGSQL
-- name: "Sr Software Developer @ MYOB"
+- name: "Sr Software Developer"
+  place: "MYOB"
+  website: "http://www.myob.com"
   icon: 'fa-code'
   title: 'Work'
   date: 'Sep 2013 - Jun 2014'
@@ -30,7 +38,9 @@
           Developing next generation of accounting software.
           <br />Web and desktop development.
           <br />C#, WPF, MSSQL, AWS, JS
-- name: "Sr Software Developer @ MYOB BankLink"
+- name: "Sr Software Developer"
+  place: "MYOB BankLink"
+  website: "http://www.myob.com"
   icon: 'fa-code'
   title: 'Work'
   date: 'Nov 2012 - Sep 2013'
@@ -38,7 +48,9 @@
           Developing next generation of accounting software.
           <br />Web and desktop development.
           <br />C#, WPF, MSSQL, JS
-- name: "Lead Developer @ MSI Grant Project"
+- name: "Lead Developer - Grant Project"
+  place: "MSI"
+  website: "http://www.msi.govt.co.nz"
   icon: 'fa-search'
   title: 'Research'
   date: 'Apr 2011 - Dec 2011'
@@ -46,7 +58,9 @@
           Successful 'Foundation for Research, Science & Technology' grant.
           <br />New multi touch hardware and concurrent collaborative software.
           <br />C#, WPF, Silverlight, OpenCV
-- name: "Sr Software Developer @ 2Touch"
+- name: "Sr Software Developer"
+  place: "2Touch"
+  website: "http://twotouch.com"
   icon: 'fa-code'
   title: 'Work'
   date: 'Mar 2009 - Nov 2012'
@@ -54,7 +68,9 @@
           Pioneering large multi touch surfaces.
           <br />Web, desktop and hardware development.
           <br />C#, WPF, PHP, MySQL, RoR, JS
-- name: "Software Developer @ Tec-Lab"
+- name: "Software Developer"
+  place: "Tec-Lab"
+  website: "http://tec-lab.com.ar"
   icon: 'fa-code'
   title: 'Work'
   date: 'Apr 2006 – Mar 2009'
@@ -63,6 +79,8 @@
           <br />Web and desktop development.
           <br />C#, WPF, PHP, MySQL, AS3, JS
 - name: "Master's Degree, Mathematics"
+  place: "UBA"
+  website: "http://www.uba.com"
   icon: 'fa-book'
   title: 'Education'
   date: 'Jul. 2008'
