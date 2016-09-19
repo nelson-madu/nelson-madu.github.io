@@ -40,7 +40,7 @@
           <br />C#, WPF, MSSQL, AWS, JS
 - name: "Sr Software Developer"
   place: "MYOB BankLink"
-  website: "http://www.myob.com"
+  website: "http://www.banklink.co.nz"
   icon: 'fa-code'
   title: 'Work'
   date: 'Nov 2012 - Sep 2013'
@@ -50,7 +50,7 @@
           <br />C#, WPF, MSSQL, JS
 - name: "Lead Developer - Grant Project"
   place: "MSI"
-  website: "http://www.msi.govt.co.nz"
+  website: "http://www.mbie.govt.nz"
   icon: 'fa-search'
   title: 'Research'
   date: 'Apr 2011 - Dec 2011'
@@ -70,7 +70,7 @@
           <br />C#, WPF, PHP, MySQL, RoR, JS
 - name: "Software Developer"
   place: "Tec-Lab"
-  website: "http://tec-lab.com.ar"
+  website: "#"
   icon: 'fa-code'
   title: 'Work'
   date: 'Apr 2006 – Mar 2009'
@@ -80,7 +80,7 @@
           <br />C#, WPF, PHP, MySQL, AS3, JS
 - name: "Master's Degree, Mathematics"
   place: "UBA"
-  website: "http://www.uba.com"
+  website: "http://www.uba.ar/"
   icon: 'fa-book'
   title: 'Education'
   date: 'Jul. 2008'
