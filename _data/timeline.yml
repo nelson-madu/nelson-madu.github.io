@@ -70,7 +70,7 @@
           <br />C#, WPF, PHP, MySQL, RoR, JS
 - name: "Software Developer"
   place: "Tec-Lab"
-  website: "#"
+  website: "//:0"
   icon: 'fa-code'
   title: 'Work'
   date: 'Apr 2006 – Mar 2009'
