@@ -33,9 +33,6 @@ stylesheets:
   - url: "bower_components/animate.css/animate.min.css"
   - url: "bower_components/components-font-awesome/css/font-awesome.min.css"
   - url: "static/css/style.css"
-  # TODO: Remove these two
-  #- url: "bower_components/jquery.gritter/css/jquery.gritter.css"
-  #- url: "static/font-mfizz/font-mfizz.css"
 
 scripts:
   - url: "bower_components/jquery/dist/jquery.min.js"

@@ -20,7 +20,6 @@
     "PACE": "pace#^1.0.2",
     "components-font-awesome": "^4.6.3",
     "animate.css": "^3.5.2",
-    "wow": "wowjs#^1.1.2",
-    "jquery.gritter": "^1.7.4"
+    "wow": "wowjs#^1.1.2"
   }
 }
