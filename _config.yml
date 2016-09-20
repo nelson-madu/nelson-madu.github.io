@@ -8,9 +8,7 @@ favicon: "static/img/favicon.ico?v=2"
 
 # author
 author:
-  name: 'Lucas'
-  first_name: 'Lucas'
-  last_name: 'Schejtman'
+  name: 'Lucas Schejtman'
   email: 'lucas.schejtman@gmail.com'
   github: 'https://github.com/lucasschejtman'
   linkedin: 'https://www.linkedin.com/in/lucas-schejtman-29300b32'
