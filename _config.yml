@@ -19,13 +19,6 @@ author:
             <br />As a full stack developer, I'm always up for a challenge at any front.
             <br />I enjoy keeping myself up to date and playing with the latest and greatest.
 
-# landing page
-landing:
-  home: 'Home'
-  about: 'About'
-  career: 'Career'
-  projects: 'Projects'
-
 stylesheets:
   - url: "bower_components/bootstrap/dist/css/bootstrap.min.css"
   - url: "bower_components/animate.css/animate.min.css"
