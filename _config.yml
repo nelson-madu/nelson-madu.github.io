@@ -31,6 +31,17 @@ scripts:
   - url: "bower_components/PACE/pace.min.js"
   - url: "bower_components/bootstrap/dist/js/bootstrap.min.js"
 
+sections:
+  - id: "about"
+    name: "About"
+    tpl: "about.html"
+  - id: "career"
+    name: "Career"
+    tpl: "timeline.html"
+  - id: "projects"
+    name: "Projects"
+    tpl: "projects.html"
+
 # google analytics
 ga:
   id: UA-84338948-1
