@@ -22,7 +22,6 @@ author:
 stylesheets:
   - url: "bower_components/bootstrap/dist/css/bootstrap.min.css"
   - url: "bower_components/animate.css/animate.min.css"
-  - url: "bower_components/components-font-awesome/css/font-awesome.min.css"
   - url: "static/css/style.min.css"
 
 scripts:

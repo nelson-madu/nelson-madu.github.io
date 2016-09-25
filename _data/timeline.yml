@@ -1,7 +1,7 @@
 - name: "Solutions Architect"
   place: "Orion Health"
   website: "http://www.orionhealth.com"
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Aug 2016 - Present'
   desc: >
@@ -11,7 +11,7 @@
 - name: 'Solutions Architect'
   place: 'Bauer Media'
   website: 'http://www.bauermedia.com'
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Jul 2015 - Aug 2016'
   desc: >
@@ -21,7 +21,7 @@
 - name: "Technical Lead"
   place: "Findly"
   website: "http://wwww.findly.com"
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Jun 2014 - Jul 2015'
   desc: >
@@ -31,7 +31,7 @@
 - name: "Sr Software Developer"
   place: "MYOB"
   website: "http://www.myob.com"
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Sep 2013 - Jun 2014'
   desc: >
@@ -41,7 +41,7 @@
 - name: "Sr Software Developer"
   place: "MYOB BankLink"
   website: "http://www.banklink.co.nz"
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Nov 2012 - Sep 2013'
   desc: >
@@ -51,7 +51,7 @@
 - name: "Lead Developer - Grant Project"
   place: "MSI"
   website: "http://www.mbie.govt.nz"
-  icon: 'fa-search'
+  icon: 'icon-search'
   title: 'Research'
   date: 'Apr 2011 - Dec 2011'
   desc: >
@@ -61,7 +61,7 @@
 - name: "Sr Software Developer"
   place: "2Touch"
   website: "http://twotouch.com"
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Mar 2009 - Nov 2012'
   desc: >
@@ -71,7 +71,7 @@
 - name: "Software Developer"
   place: "Tec-Lab"
   website: "//:0"
-  icon: 'fa-code'
+  icon: 'icon-embed2'
   title: 'Work'
   date: 'Apr 2006 – Mar 2009'
   desc: >
@@ -81,7 +81,7 @@
 - name: "Master's Degree, Mathematics"
   place: "UBA"
   website: "http://www.uba.ar/"
-  icon: 'fa-book'
+  icon: 'icon-book'
   title: 'Education'
   date: 'Jul. 2008'
   desc: >
