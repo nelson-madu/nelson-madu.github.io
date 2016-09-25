@@ -21,7 +21,7 @@ author:
 
 stylesheets:
   - url: "bower_components/bootstrap/dist/css/bootstrap.min.css"
-  - url: "bower_components/animate.css/animate.min.css"
+  - url: "static/css/animate.min.css"
   - url: "static/css/style.min.css"
 
 scripts:
