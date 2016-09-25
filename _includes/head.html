@@ -9,14 +9,11 @@
   <title>{{ site.title }}</title>
   <link rel="shortcut icon" href="{{ site.favicon | prepend: site.baseurl }}">
 
-  <!-- Third-party CSS -->
   {% for stylesheet in site.stylesheets %}
     <link href="{{ stylesheet.url | prepend: site.baseUrl }}" rel="stylesheet">
   {% endfor %}
 
-  <!-- Third-party scripts -->
   {% for script in site.scripts %}
     <script src="{{ script.url | prepend: site.baseurl }}"></script>
   {% endfor %}
-
 </head>
