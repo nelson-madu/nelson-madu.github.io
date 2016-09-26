@@ -6,7 +6,6 @@ baseurl: "/"
 url: "http://lucasschejtman.github.io"
 favicon: "static/img/favicon.ico?v=2"
 
-# author
 author:
   name: 'Lucas Schejtman'
   email: 'lucas.schejtman@gmail.com'
@@ -20,15 +19,15 @@ author:
             <br />I enjoy keeping myself up to date and playing with the latest and greatest.
 
 stylesheets:
-  - url: "bower_components/bootstrap/dist/css/bootstrap.min.css"
-  - url: "static/css/animate.min.css"
+  - url: "lib/css/bootstrap.min.css"
+  - url: "lib/css/animate.min.css"
   - url: "static/css/style.min.css"
 
 scripts:
-  - url: "bower_components/jquery/dist/jquery.min.js"
-  - url: "bower_components/wow/dist/wow.min.js"
-  - url: "bower_components/PACE/pace.min.js"
-  - url: "bower_components/bootstrap/dist/js/bootstrap.min.js"
+  - url: "lib/js/jquery.min.js"
+  - url: "lib/js/wow.min.js"
+  - url: "lib/js/pace.min.js"
+  - url: "lib/js/bootstrap.min.js"
 
 sections:
   - id: "about"
