@@ -20,7 +20,7 @@ author:
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
-  - url: "static/css/style.css"
+  - url: "static/css/style.min.css"
 
 scripts:
   - url: "lib/js/jquery.min.js"
