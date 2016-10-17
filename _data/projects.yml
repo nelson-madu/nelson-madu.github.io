@@ -1,22 +1,22 @@
-- name: 'IMDB GraphQL'
+- name: 'Fall 2015'
   url: 'https://github.com/lucasschejtman/imdb-graphql-flow'
   img: 'static/img/landing/graphql.png'
   desc: >
           A GraphQL wrapper for some of the unofficial IMDB APIs.
           <br />Written in ES6 with Ramda and FlowType
-- name: 'Functional React'
+- name: 'Winter 2015'
   url: 'https://github.com/lucasschejtman/react-redux-functional'
   img: 'static/img/landing/react.png'
   desc: >
           A functional and modular approach to the well known todo app.
           <br />Written in ES6 with React, Redux and Ramda
-- name: 'Online Problems'
+- name: 'Spring 2016'
   url: 'https://github.com/lucasschejtman/online-problems'
   img: 'static/img/landing/haskell.png'
   desc: >
           My solutions to problems from sites such as; Project Euler, HackerRank and more.
           <br />Written in Haskell
-- name: 'Jalpc'
+- name: 'Summer 2016'
   url: 'https://github.com/Jack614/jalpc_jekyll_theme/graphs/contributors'
   img: 'static/img/landing/jekyll.png'
   desc: >
