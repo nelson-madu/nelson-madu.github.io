@@ -1,24 +1,26 @@
-- name: 'Fall 2015'
-  url: 'https://github.com/lucasschejtman/imdb-graphql-flow'
-  img: 'static/img/landing/graphql.png'
+- name: 'BNBS <i>Counsellor</i> [in development]'
+  url: 'https://itunes.apple.com/us/app/bonobos-icatalog/id703274027?mt=8'
+  img: 'static/img/landing/app.jpg'
   desc: >
-          A GraphQL wrapper for some of the unofficial IMDB APIs.
-          <br />Written in ES6 with Ramda and FlowType
-- name: 'Winter 2015'
-  url: 'https://github.com/lucasschejtman/react-redux-functional'
-  img: 'static/img/landing/react.png'
+        Driving Product strategy for Outfit Recommendations in Bonobos Mobile development.
+        <br />Defined recommendation engine matrix hierarchy and structure.
+        <br />Mapped logic for product recommendation algorithm based on key product attributes.
+- name: 'Stretch'
+  url: 'https://bonobos.com/shop/tops/dress-shirts'
+  img: 'static/img/landing/stretch.png'
   desc: >
-          A functional and modular approach to the well known todo app.
-          <br />Written in ES6 with React, Redux and Ramda
-- name: 'Spring 2016'
-  url: 'https://github.com/lucasschejtman/online-problems'
-  img: 'static/img/landing/haskell.png'
+          Outlined strategy for Stretch product in Dress Shirts. 
+          <br />Now a $2mm idea annually.
+- name: 'Velvet'
+  url: 'https://bonobos.com/shop/tailored/blazers'
+  img: 'static/img/landing/velvet.png'
   desc: >
-          My solutions to problems from sites such as; Project Euler, HackerRank and more.
-          <br />Written in Haskell
-- name: 'Summer 2016'
-  url: 'https://github.com/Jack614/jalpc_jekyll_theme/graphs/contributors'
-  img: 'static/img/landing/jekyll.png'
-  desc: >
-          The Jekyll theme on which this website is built.
-          <br />Written in javascript with liquid templates
+          Drove development of Velvet Blazer in Q4 of 2016,
+          <br />a $500k media-garnering product  
+          
+# - name: 'Summer 2016'
+#   url: 'https://github.com/Jack614/jalpc_jekyll_theme/graphs/contributors'
+#   img: 'static/img/landing/jekyll.png'
+#   desc: >
+#           The Jekyll theme on which this website is built.
+#           <br />Written in javascript with liquid templates
