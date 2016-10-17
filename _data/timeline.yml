@@ -1,7 +1,7 @@
 - name: "Associate Product Manager - Mobile"
   place: "Bonobos"
   website: "http://www.bonobos.com"
-  icon: 'icon-embed2'
+  icon: 'icon-mobile'
   title: 'Work'
   date: 'Oct 2016 - Present'
   desc: >
@@ -11,7 +11,7 @@
 - name: 'Associate Product Manager - Apparel'
   place: 'Bonobos'
   website: 'http://www.bonobos.com'
-  icon: 'icon-embed2'
+  icon: 'icon-user-tie'
   title: 'Work'
   date: 'Feb 2016 - Present'
   desc: >
@@ -19,18 +19,18 @@
         <br />Apparel Product strategy and execution for half of Bonobos’ business – 
         <br />  Suiting, Blazers, Outerwear, Shirting, and Footwear.
         <br />Orchestrate cross-functional teams: 
-        <br />  Roadmap and assortment with Design, 
-        <br />  Sourcing and costing with Production, 
-        <br />  Revenue targets with Planning,
-        <br />  User stories and campaigns with Marketing, 
-        <br />  and UX integration with Engineering. 
+        <br />  - Roadmap and assortment with Design, 
+        <br />  - Sourcing and costing with Production, 
+        <br />  - Revenue targets with Planning,
+        <br />  - User stories and campaigns with Marketing, 
+        <br />  - and UX integration with Engineering. 
         <br />Drove development of Velvet Blazer in Q4 of 2016, a $500k idea.
         <br />Create product roadmaps, quarterly financial forecasting and buying deliverables.
 
 - name: "Assistant Product Manager - Apparel"
   place: "Bonobos"
   website: "http://wwww.bonobos.com"
-  icon: 'icon-embed2'
+  icon: 'icon-user-tie'
   title: 'Work'
   date: 'March 2015 - Feb 2016'
   desc: >
@@ -42,7 +42,7 @@
 - name: "Consumer Experience Associate"
   place: "Bonobos"
   website: "http://www.bonobos.com"
-  icon: 'icon-embed2'
+  icon: 'icon-price-tags'
   title: 'Work'
   date: 'Oct 2014 - Feb 2015'
   desc: >
@@ -54,7 +54,7 @@
 - name: "Operations Associate"
   place: "Hammerhead Navigation"
   website: "http://www.hammerhead.io"
-  icon: 'icon-embed2'
+  icon: 'icon-directions_bike'
   title: 'Work'
   date: 'Sept 2014 - Jan 2015'
   desc: >
@@ -63,7 +63,7 @@
 - name: "Paralegal"
   place: "Trachtenberg Rodes & Friedberg"
   website: "http://www.trflaw.com/"
-  icon: 'icon-embed2'
+  icon: 'icon-briefcase'
   title: 'Work'
   date: 'Sept 2013 - June 2014'
   desc: >
@@ -73,7 +73,7 @@
 - name: "Bachelor's Degree, Political Science"
   place: "Yale University"
   website: "http://www.yale.edu/"
-  icon: 'icon-book'
+  icon: 'icon-study'
   title: 'Education'
   date: 'Jul. 2008'
   desc: >
