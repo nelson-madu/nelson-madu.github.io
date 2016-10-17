@@ -5,13 +5,13 @@
         Driving Product strategy for Outfit Recommendations in Bonobos Mobile development.
         <br />Defined recommendation engine matrix hierarchy and structure.
         <br />Mapped logic for product recommendation algorithm based on key product attributes.
-- name: 'Stretch'
+- name: 'BNBS Stretch'
   url: 'https://bonobos.com/shop/tops/dress-shirts'
   img: 'static/img/landing/stretch.png'
   desc: >
           Outlined strategy for Stretch product in Dress Shirts. 
           <br />Now a $2mm idea annually.
-- name: 'Velvet'
+- name: 'BNBS Velvet'
   url: 'https://bonobos.com/shop/tailored/blazers'
   img: 'static/img/landing/velvet.png'
   desc: >
