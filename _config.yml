@@ -1,23 +1,21 @@
 # Website settings
 title: "Nelson Madubuonwu"
-description: "Lucas Schejtman's personal website."
-keywords: "Lucas,Schejtman,personal,portfolio"
+keywords: "Nelson,Madubuonwu,product,manager,apparel,Bonobos,personal,portfolio"
 baseurl: "/"
-url: "http://lucasschejtman.github.io"
+url: "http://nelson-madu.github.io"
 favicon: "static/img/favicon.ico?v=2"
+# url: "http://127.0.0.1:4000"
 
 author:
-  name: 'Lucas Schejtman'
-  email: 'lucas.schejtman@gmail.com'
-  github: 'https://github.com/lucasschejtman'
+  name: 'Nelson' 
+  email: 'nelson.madu@gmail.com' 
   linkedin: 'https://www.linkedin.com/in/lucas-schejtman-29300b32'
-  head_img: 'static/img/landing/lucas.jpg'
-  tag: 'Mathematics, Software, Sports and Video Games'
+  head_img: 'static/img/landing/Nelson.jpg'
+  tag: 'Making Product look good.'
   desc: >
-            Applied math enthusiast, especially cryptography, with over 10 years experience in the software industry.
-            <br />As a full stack developer, I'm always up for a challenge at any front.
-            <br />I enjoy keeping myself up to date and playing with the latest and greatest.
-
+            Apparel product manager @BONOBOS, a digitally-native, vertically integrated men’s apparel business. 
+            <br />Defining the digital menswear landscape by Shipping great fit and excellent customer service.
+            
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
@@ -39,10 +37,18 @@ sections:
   - id: "projects"
     name: "Projects"
     tpl: "projects.html"
-
-# google analytics
-ga:
-  id: UA-84338948-1
-
+#  - id: 'links' 
+#    name: 'Links'
+#    tpl: 'links.html'
+#    css: 'contact'
+ 
 # Build settings
 encoding: "utf-8"
+
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
