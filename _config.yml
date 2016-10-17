@@ -12,14 +12,15 @@ author:
   linkedin: 'https://www.linkedin.com/in/lucas-schejtman-29300b32'
   head_img: 'static/img/landing/Nelson.jpg'
   tag: 'Making Product look good.'
-  desc: >
+  desc: > 
+            <br />
             Apparel product manager <a href="http://www.bonobos.com/">@BONOBOS</a>, a digitally native, vertically integrated menswear brand. 
             <br />Defining the landscape of men's e-commers by shipping great fit and excellent customer service.
             
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
-  - url: "static/css/style.min.css"
+  - url: "static/css/style.css"
 
 scripts:
   - url: "lib/js/jquery.min.js"
