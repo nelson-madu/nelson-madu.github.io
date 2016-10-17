@@ -1,88 +1,82 @@
-- name: "Solutions Architect"
-  place: "Orion Health"
-  website: "http://www.orionhealth.com"
+- name: "Associate Product Manager - Mobile"
+  place: "Bonobos"
+  website: "http://www.bonobos.com"
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Aug 2016 - Present'
+  date: 'Oct 2016 - Present'
   desc: >
-          Redefining the architecture plan for the next 5 years.
-          <br />Web development and DevOps.
-          <br />AWS, JS, NodeJS, React, Docker
-- name: 'Solutions Architect'
-  place: 'Bauer Media'
-  website: 'http://www.bauermedia.com'
+        Driving product strategy for Bonobos Mobile app.
+        <br />Defining drivers of recommendation algorithm based on key product attributes. 
+ 
+- name: 'Associate Product Manager - Apparel'
+  place: 'Bonobos'
+  website: 'http://www.bonobos.com'
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Jul 2015 - Aug 2016'
+  date: 'Feb 2016 - Present'
   desc: >
-          Driving digital transformation.
-          <br />Web development and DevOps.
-          <br />C#, AWS, JS, ElasticSearch, NodeJS, React, PGSQL, Docker
-- name: "Technical Lead"
-  place: "Findly"
-  website: "http://wwww.findly.com"
+        Ship new product and feature updates on a quarterly basis. 
+        <br />Apparel Product strategy and execution for half of Bonobos’ business – 
+        <br />  Suiting, Blazers, Outerwear, Shirting, and Footwear.
+        <br />Orchestrate cross-functional teams: 
+        <br />  Roadmap and assortment with Design, 
+        <br />  Sourcing and costing with Production, 
+        <br />  Revenue targets with Planning,
+        <br />  User stories and campaigns with Marketing, 
+        <br />  and UX integration with Engineering. 
+        <br />Drove development of Velvet Blazer in Q4 of 2016, a $500k idea.
+        <br />Create product roadmaps, quarterly financial forecasting and buying deliverables.
+
+- name: "Assistant Product Manager - Apparel"
+  place: "Bonobos"
+  website: "http://wwww.bonobos.com"
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Jun 2014 - Jul 2015'
+  date: 'March 2015 - Feb 2016'
   desc: >
-          Helping Fortune 500 companies find their next employees.
-          <br />Web development and DevOps.
-          <br />C#, AWS, Mongo, JS, ES, NodeJS, Angular, Backbone, PGSQL
-- name: "Sr Software Developer"
-  place: "MYOB"
-  website: "http://www.myob.com"
+            Apparel Product strategy and execution for Knits, Suiting, Blazers, Outerwear, Shirting, and Footwear.
+            <br />Year-Over-Year revenue growth of 40% across product lines.
+            <br />Drove creation of Limited Edition product line in Dress Shirts. Product doing $500k quarterly.
+            <br />Outlined strategy for Stretch product in Dress Shirts, now a $2mm idea annually.
+
+- name: "Consumer Experience Associate"
+  place: "Bonobos"
+  website: "http://www.bonobos.com"
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Sep 2013 - Jun 2014'
+  date: 'Oct 2014 - Feb 2015'
   desc: >
-          Developing next generation of accounting software.
-          <br />Web and desktop development.
-          <br />C#, WPF, MSSQL, AWS, JS
-- name: "Sr Software Developer"
-  place: "MYOB BankLink"
-  website: "http://www.banklink.co.nz"
+        Reported bugs and suggested UI improvements to engineering team.
+        <br />  during backend transition from Magento to Spree Commerce.
+        <br />Reported logging errors between Brain Tree payments infrastructure and Bonobos backend.
+  
+  
+- name: "Operations Associate"
+  place: "Hammerhead Navigation"
+  website: "http://www.hammerhead.io"
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Nov 2012 - Sep 2013'
+  date: 'Sept 2014 - Jan 2015'
   desc: >
-          Developing next generation of accounting software.
-          <br />Web and desktop development.
-          <br />C#, WPF, MSSQL, JS
-- name: "Lead Developer - Grant Project"
-  place: "MSI"
-  website: "http://www.mbie.govt.nz"
-  icon: 'icon-search'
-  title: 'Research'
-  date: 'Apr 2011 - Dec 2011'
-  desc: >
-          Successful 'Foundation for Research, Science & Technology' grant.
-          <br />New multi touch hardware and concurrent collaborative software.
-          <br />C#, WPF, Silverlight, OpenCV
-- name: "Sr Software Developer"
-  place: "2Touch"
-  website: "http://twotouch.com"
+        Planned Ningbo, China fulfillment strategy with Operations lead and team for device hardware.
+
+- name: "Paralegal"
+  place: "Trachtenberg Rodes & Friedberg"
+  website: "http://www.trflaw.com/"
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Mar 2009 - Nov 2012'
+  date: 'Sept 2013 - June 2014'
   desc: >
-          Pioneering large multi touch surfaces.
-          <br />Web, desktop and hardware development.
-          <br />C#, WPF, PHP, MySQL, RoR, JS
-- name: "Software Developer"
-  place: "Tec-Lab"
-  website: "//:0"
-  icon: 'icon-embed2'
-  title: 'Work'
-  date: 'Apr 2006 – Mar 2009'
-  desc: >
-          Building first touch capable terminal kiosks.
-          <br />Web and desktop development.
-          <br />C#, WPF, PHP, MySQL, AS3, JS
-- name: "Master's Degree, Mathematics"
-  place: "UBA"
-  website: "http://www.uba.ar/"
+        Supported casework of the general partners.
+        <br />Oversaw firm-wide operations and finances.
+   
+- name: "Bachelor's Degree, Political Science"
+  place: "Yale University"
+  website: "http://www.yale.edu/"
   icon: 'icon-book'
   title: 'Education'
   date: 'Jul. 2008'
   desc: >
-          Graduated with a focus on applied math and cryptography.
+          Graduated with a concentration in Middle East and North African Politics and Security. 
+          <br /><b>Thesis:</b> The Focus of Institutional Development in Post-Crisis Middle Eastern States
+          <br /><b>Leadership:</b> Creative Director,Yale’s musical improvisation comedy troupe
