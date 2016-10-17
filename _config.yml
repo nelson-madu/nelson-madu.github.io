@@ -1,5 +1,5 @@
 # Website settings
-title: "Apparel | Strategy | Product"
+title: "Nelson Madubuonwu"
 keywords: "Nelson,Madubuonwu,product,manager,apparel,Bonobos,personal,portfolio"
 baseurl: "/"
 url: "http://nelson-madu.github.io"
@@ -38,10 +38,10 @@ sections:
   - id: "projects"
     name: "Projects"
     tpl: "projects.html"
-#  - id: 'links' 
-#    name: 'Links'
-#    tpl: 'links.html'
-#    css: 'contact'
+  - id: 'links' 
+    name: 'Links'
+    tpl: 'links.html'
+    css: 'contact'
  
 # Build settings
 encoding: "utf-8"
