@@ -7,14 +7,14 @@ favicon: "static/img/favicon.ico?v=2"
 # url: "http://127.0.0.1:4000"
 
 author:
-  name: 'Nelson' 
+  name: 'Nelson Madubuonwu' 
   email: 'nelson.madu@gmail.com' 
   linkedin: 'https://www.linkedin.com/in/lucas-schejtman-29300b32'
   head_img: 'static/img/landing/Nelson.jpg'
   tag: 'Making Product look good.'
   desc: >
-            Apparel product manager @BONOBOS, a digitally-native, vertically integrated men’s apparel business. 
-            <br />Defining the digital menswear landscape by Shipping great fit and excellent customer service.
+            Apparel product manager <a href="http://www.bonobos.com/">@BONOBOS</a>, a digitally native, vertically integrated menswear brand. 
+            <br />Defining the landscape of men's e-commers by shipping great fit and excellent customer service.
             
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
