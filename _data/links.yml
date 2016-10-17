@@ -1,0 +1,11 @@
+- last_name: Nelson 
+#   first_name: 
+  desc: 'Contact me.'
+#  website: 'http://www.bonobos.com'
+  email: 'nelson.madu@gmail.com'
+
+- last_name: Lucas
+  first_name: Schejtman
+  desc: 'Full Stack Developer.'
+  website: 'http://lucasschejtman.github.io'
+  email: 'lucas.schejtman@gmail.com'
