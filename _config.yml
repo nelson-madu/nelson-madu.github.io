@@ -39,7 +39,7 @@ sections:
     name: "Projects"
     tpl: "projects.html"
   - id: 'links' 
-    name: 'Links'
+    name: 'Contact'
     tpl: 'links.html'
     css: 'contact'
  
