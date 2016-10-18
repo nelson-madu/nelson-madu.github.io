@@ -1,7 +1,7 @@
 - name: "Associate Product Manager - Mobile"
   place: "Bonobos"
   website: "http://www.bonobos.com"
-  icon: 'icon-mobile'
+  icon: 'fa-mobile-phone'
   title: 'Work'
   date: 'Oct 2016 - Present'
   desc: >
@@ -11,7 +11,7 @@
 - name: 'Associate Product Manager - Apparel'
   place: 'Bonobos'
   website: 'http://www.bonobos.com'
-  icon: 'icon-user-tie'
+  icon: 'fa-black-tie'
   title: 'Work'
   date: 'Feb 2016 - Present'
   desc: >
@@ -30,7 +30,7 @@
 - name: "Assistant Product Manager - Apparel"
   place: "Bonobos"
   website: "http://wwww.bonobos.com"
-  icon: 'icon-user-tie'
+  icon: 'fa-black-tie'
   title: 'Work'
   date: 'March 2015 - Feb 2016'
   desc: >
@@ -42,7 +42,7 @@
 - name: "Consumer Experience Associate"
   place: "Bonobos"
   website: "http://www.bonobos.com"
-  icon: 'icon-price-tags'
+  icon: 'fa-tags'
   title: 'Work'
   date: 'Oct 2014 - Feb 2015'
   desc: >
@@ -54,7 +54,7 @@
 - name: "Operations Associate"
   place: "Hammerhead Navigation"
   website: "http://www.hammerhead.io"
-  icon: 'icon-directions_bike'
+  icon: 'fa-bicycle'
   title: 'Work'
   date: 'Sept 2014 - Jan 2015'
   desc: >
@@ -63,7 +63,7 @@
 - name: "Paralegal"
   place: "Trachtenberg Rodes & Friedberg"
   website: "http://www.trflaw.com/"
-  icon: 'icon-briefcase'
+  icon: 'fa-briefcase'
   title: 'Work'
   date: 'Sept 2013 - June 2014'
   desc: >
@@ -73,7 +73,7 @@
 - name: "Bachelor's Degree, Political Science"
   place: "Yale University"
   website: "http://www.yale.edu/"
-  icon: 'icon-study'
+  icon: 'fa-graduation-cap'
   title: 'Education'
   date: 'Jul. 2008'
   desc: >
